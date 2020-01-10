@@ -22,6 +22,8 @@ ViewPagerAdapter adapter;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        /// new Tested Braches
+
         tabLayout = (TabLayout) findViewById(R.id.tablayout);
         viewPager = (ViewPager) findViewById(R.id.viewpager);
 
