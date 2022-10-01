@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-auth-interop:16.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ff2445c0a915952a23f3cf62b267189e/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ff2445c0a915952a23f3cf62b267189e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ff2445c0a915952a23f3cf62b267189e/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/330de6d092b1af1a3032fec02e14b354/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/330de6d092b1af1a3032fec02e14b354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/330de6d092b1af1a3032fec02e14b354/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b61879ad40f46a78b14ebcb50307cfb7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b61879ad40f46a78b14ebcb50307cfb7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b61879ad40f46a78b14ebcb50307cfb7/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/Java/jre1.8.0_161/bin/caches/transforms-2/files-2.1/6f98031ca8243661235d9fb1fb25dc86/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/Java/jre1.8.0_161/bin/caches/transforms-2/files-2.1/6f98031ca8243661235d9fb1fb25dc86/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files (x86)/Java/jre1.8.0_161/bin/caches/transforms-2/files-2.1/6f98031ca8243661235d9fb1fb25dc86/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/Java/jre1.8.0_161/bin/caches/transforms-2/files-2.1/920a2258cce58fcfdb3de3a8835f57a2/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files (x86)/Java/jre1.8.0_161/bin/caches/transforms-2/files-2.1/920a2258cce58fcfdb3de3a8835f57a2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/Java/jre1.8.0_161/bin/caches/transforms-2/files-2.1/920a2258cce58fcfdb3de3a8835f57a2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -4,5 +4,43 @@
     <color name="colorPrimaryDark">#2f2f2f</color>
     <color name="colorAccent">#52b7f8</color>
     <color name="backgoundfragmend">#2b2b2b</color>
+    <color name="white">#fff</color>
+
+    <color name="purple">#6b27e8</color>
+    <color name="darkpurple">#6123d1</color>
+    <color name="light_purple">#6b27e8</color>
+    <color name="medgreen">#72b140</color>
+    <color name="lghtgreen">#a4cf6f</color>
+    <color name="lghtAccent">#f6b148</color>
+    <color name="black">#000000</color>
+    <color name="color_drkyellow">#f2740e</color>
+    <color name="gray">#c2c2c2</color>
+    <color name="gray1">#737373</color>
+    <color name="few_transp_gray">#E8706F6F</color>
+    <color name="lght_gray">#e6e6e6</color>
+    <color name="few_gray">#F1F1F1</color>
+    <color name="error_color">#bb0000</color>
+    <color name="trans">#00000000</color>
+
+
+    <color name="icongray">#8E92A2</color>
+    <color name="gray200">#dddddd</color>
+    <color name="light_bg">#f6f7fb</color>
+
+
+    <color name="trans_purple">#f2e9ff</color>
+    <color name="sgfdg">#580d8a</color>
+    <color name="fdfd">#fb0202</color>
+    <color name="tempcolor">#fff6ee</color>
+    <color name="vendorcolor">#e6fdf9</color>
+    <color name="risticted_bgcolor">#ffeef0</color>
+    <color name="mail_bgtin">#ff4c63</color>
+    <color name="save_bgbtn">#2be0c3</color>
+    <color name="top_boarderbgcolor">#f6f7fb</color>
+    <color name="contectbg">#efeef5</color>
+    <color name="true_transparent">#0000ffff</color>
+    <color name="textcolor">#2D2D2D</color>
+    <color name="datecolor">#8F92A1</color>
+
 
 </resources>

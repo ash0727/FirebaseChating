@@ -7,16 +7,12 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <com.google.android.material.tabs.TabLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="@color/colorPrimary"
-        app:tabMode="fixed"
-        app:tabGravity="fill"
-        app:tabIndicatorColor="@color/colorAccent"
-        android:id="@+id/tablayout"
-        >
-    </com.google.android.material.tabs.TabLayout>
+    <include
+        layout="@layout/toolbar"
+        />
+    <include
+        layout="@layout/apptoolbar"
+        />
 
     <androidx.viewpager.widget.ViewPager
         android:id="@+id/viewpager"
@@ -26,10 +22,5 @@
     </androidx.viewpager.widget.ViewPager>
 
 
-
-2214135415443dsadsa
-
-
-//code from button branch
 
 </LinearLayout>

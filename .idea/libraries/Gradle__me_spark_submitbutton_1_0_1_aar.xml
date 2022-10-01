@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Gradle: me.spark:submitbutton:1.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2ec4f25bbf4547f2f5f2d477efde14d4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2ec4f25bbf4547f2f5f2d477efde14d4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2ec4f25bbf4547f2f5f2d477efde14d4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c3598f73b9e9d7d769de7e2d409112a0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c3598f73b9e9d7d769de7e2d409112a0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c3598f73b9e9d7d769de7e2d409112a0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/97b16f3bca2bcf822b193089a32b63b4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/97b16f3bca2bcf822b193089a32b63b4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/97b16f3bca2bcf822b193089a32b63b4/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/Java/jre1.8.0_161/bin/caches/transforms-2/files-2.1/f558f13c9f40a8d835d644077dc88d51/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files (x86)/Java/jre1.8.0_161/bin/caches/transforms-2/files-2.1/f558f13c9f40a8d835d644077dc88d51/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/Java/jre1.8.0_161/bin/caches/transforms-2/files-2.1/f558f13c9f40a8d835d644077dc88d51/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/Java/jre1.8.0_161/bin/caches/transforms-2/files-2.1/45a7ce6e060fd1db33b148a61fd07021/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/Java/jre1.8.0_161/bin/caches/transforms-2/files-2.1/45a7ce6e060fd1db33b148a61fd07021/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files (x86)/Java/jre1.8.0_161/bin/caches/transforms-2/files-2.1/45a7ce6e060fd1db33b148a61fd07021/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.spark/submitbutton/1.0.1/27304accad70af72d60b0ea91eef698cba8ca83/submitbutton-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

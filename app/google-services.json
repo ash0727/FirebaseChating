@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "720820689380",
+    "firebase_url": "https://fir-chatingapp-861c9.firebaseio.com",
+    "project_id": "fir-chatingapp-861c9",
+    "storage_bucket": "fir-chatingapp-861c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720820689380:android:f8c67c489b51e50fc40ff1",
+        "android_client_info": {
+          "package_name": "com.chatingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720820689380-hhg50v03o4ahrifmpumgq5qclduh30hu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chatingapp",
+            "certificate_hash": "485cd4d61ed520cce88337a6cd83c616152c3b49"
+          }
+        },
+        {
+          "client_id": "720820689380-f5q88mt6bf9hnkdctgecq9t2g4pas5hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_SjVY1ixD9qBaqmv4A_6jofexm_Fsvqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720820689380-f5q88mt6bf9hnkdctgecq9t2g4pas5hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720820689380:android:42eb4432c6d6a6cbc40ff1",
+        "android_client_info": {
+          "package_name": "com.firebasechatingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720820689380-4dhn3ko5ueb37m9nu7801h0glgos0mhs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebasechatingapp",
+            "certificate_hash": "485cd4d61ed520cce88337a6cd83c616152c3b49"
+          }
+        },
+        {
+          "client_id": "720820689380-n0qgopdl4fm0g9o6fnc8evogj62frjd7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebasechatingapp",
+            "certificate_hash": "6c4087cde385e8567c94266fe489d5a132c63b34"
+          }
+        },
+        {
+          "client_id": "720820689380-f5q88mt6bf9hnkdctgecq9t2g4pas5hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_SjVY1ixD9qBaqmv4A_6jofexm_Fsvqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720820689380-f5q88mt6bf9hnkdctgecq9t2g4pas5hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

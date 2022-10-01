@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgoundfragmend"
+    tools:context=".UserProfileActivtiy">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginVertical="50dp"
+            android:layout_marginHorizontal="30dp"
+            >
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/imageView"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/ic_camera_black_24dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="50dp"
+                app:civ_border_color="@color/purple"
+                app:civ_border_width="2dp"
+                />
+
+            <EditText
+                android:id="@+id/edt_username"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="User Name"
+                android:textColorHint="@color/white"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/white"
+                android:inputType="textEmailAddress"
+                />
+
+            <EditText
+                android:id="@+id/edt_mobile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="User Mobile"
+                android:textColorHint="@color/white"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/white"
+                android:inputType="textEmailAddress"
+                />
+
+            <EditText
+                android:id="@+id/edt_status"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Status"
+                android:textColorHint="@color/white"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/white"
+                android:inputType="text"
+                />
+
+            <Button
+                android:id="@+id/btn_udpate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:text="Update Information"
+                android:layout_marginTop="20dp"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</RelativeLayout>
